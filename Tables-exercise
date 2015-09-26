@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <table border="0">
+        <thead>
+            <tr>
+            <th colspan="2" height="30"><h3>Fresh fruits</h3></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td width="150" height="50">This is some information about the fruits, which is not important</td>
+                <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Culinary_fruits_front_view.jpg" width="150" height="50"/></td>
+            </tr>
+        </tbody>
+    </table>
+    <table border="1">
+        <tr>
+            <th colspan="3">Title is here</th>
+            <td>A</td>
+            <td>B</td>
+        </tr>
+        <tr>
+            <td rowspan="3">C</td>
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+            <td>G</td>
+        </tr>
+        <tr>
+            <td>H</td>
+            <td colspan="2">I</td>
+            <td rowspan="2">J</td>
+        </tr>
+        <tr>
+            <td>K</td>
+            <td>L</td>
+            <td>M</td>
+        </tr>
+        <tr>
+            <td>N</td>
+            <td colspan="4">O</td>
+        </tr>
+    </table>
+</body>
+</html>
