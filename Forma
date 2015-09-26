@@ -4,7 +4,7 @@
     <title></title>
 </head>
 <body>
-    <form name="form1" method="post" action="form.html">
+    <form name="form1" method="post" action="form1.html">
         <label for="user">User:</label>
         <input type="text" required="required" id="user" name="user"/>*
         <br />
