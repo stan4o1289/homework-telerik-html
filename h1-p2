@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <b>Preceding Texts:
+    <ol type="I">
+        <li>List item 1</li>
+        <ol type="a">
+            <li>List item 1.1</li>
+            <li>List item 1.2</li>
+        </ol>
+        <li>List item 2</li>
+        <ol type="1">
+            <li>List item 2.1</li>
+            <li>List item 2.2</li>
+            <ul style="list-style-type:circle">
+                <li>List item 2.2.1</li>
+                <li>List item 2.2.2</li>
+                <ul style="list-style-type:square">
+                    <li>List item 2.2.2.1</li>
+                    <li>List item 2.2.2.2</li>
+                </ul>
+                <li>List item 2.2.3</li>
+            </ul>
+            <li>List item 2.3</li>
+        </ol>
+        <li>List item 3</li>
+        <ul style="list-style-type:disc">
+            <li>List item 3.1</li>
+            <li>List item 3.2</li>
+            <li>List item 3.3</li>
+        </ul>
+    </ol>
+    </b>
+</body>
+</html>
